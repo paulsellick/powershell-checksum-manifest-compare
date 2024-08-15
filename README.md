@@ -1,3 +1,3 @@
 # powershell-hashfile-compare
 
-new.
+new.2
